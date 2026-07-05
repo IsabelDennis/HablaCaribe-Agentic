@@ -24,7 +24,7 @@ The learner may want to:
 - expand a business
 - build regional partnerships
 
-From there, HablaCaribe builds a personalized pathway that develops the language, cultural understanding, communication skills, and confidence needed to achieve that goal.
+From there, HablaCaribe builds a personalized pathway that develops the language, cultural understanding,and communication skills, needed to achieve that goal.
 
 ## Why agentic AI
 
@@ -45,8 +45,6 @@ The Buildathon goal is to build an adaptive learning engine capable of making th
 - `diagrams/hablacaribe-workflow.mmd` — Mermaid workflow diagram
 
 ## Buildathon focus
-
-The goal is not to build the full commercial product in 21 days.
 
 The goal is to build a focused, runnable demonstration of the adaptive learning loop:
 
